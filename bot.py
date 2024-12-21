@@ -7,7 +7,7 @@ import time
 app = Flask(__name__)
 
 # Initialize the TeleBot with your bot token
-TOKEN = 'YOUR_BOT_TOKEN'  # Replace with your actual bot token
+TOKEN = '7910882641:AAEpXFHQsmArsbRV1_vuXp6u6ys6o42mhdo'  # Replace with your actual bot token
 bot = telebot.TeleBot(TOKEN)
 
 # Folder to store the HTML files
